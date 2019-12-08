@@ -10,14 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Data Systems Integration Specialist, Affiliate Assistant Astronomer
+role: Research Data Systems Integration Specialist
+
+
+      Affiliate Assistant Astronomer
  
 # Organizations/Affiliations
 organizations:
-- name: University of Arizona Libraries
-  url: "https://new.library.arizona.edu"
-- name: Steward Observatories
-  url: "https://www.as.arizona.edu"
+- name: University of Arizona
+  url: "https://www.arizona.edu"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
