@@ -20,7 +20,7 @@ organizations:
 - name: University of Arizona
   url: "https://www.arizona.edu"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Galaxy formation and evolution
@@ -79,14 +79,16 @@ user_groups:
 
 Dr. Chun Ly is the Research Data Systems Integration Specialist for
 [University Libraries](https://new.library.arizona.ed) and an Affiliate
-Assistant Astronomer at the [Steward Observatory](https://www.as.arizona.edu).
-In his current Librarian role, he is supporting the roll-out of a research data
-repository service to enable open and reproducible science at the UofA.  He
-earned his Bachelor's degrees in Astronomy and Physics from the University of
-Arizona, and received his Master's and Ph.D. from the University of California−Los
-Angeles. After completing his Ph.D., Dr. Ly held a Giacconi Postdoctoral Fellowship
-position at the [Space Telescope Science Institute](https://www.stsci.edu)
-(Baltimore, MD) and a NASA Postdoctoral Fellowship at [NASA Goddard Space Flight
-Center](https://www.nasa.gov/goddard) (Greenbelt, MD).  He was a Queue Observer for the
+Assistant Astronomer at the [Steward Observatory](https://www.as.arizona.edu)
+at the University of Arizona (UofA). In his current Librarian role, he is
+supporting the roll-out of a research data repository service to enable open
+and reproducible science at the UofA.  He earned his Bachelor's degrees in
+Astronomy and Physics from the UofA, and received his Master's and Ph.D. from
+the University of California−Los Angeles. After completing his Ph.D., Dr. Ly
+held a Giacconi Postdoctoral Fellowship position at the
+[Space Telescope Science Institute](https://www.stsci.edu) (Baltimore, MD) and
+a NASA Postdoctoral Fellowship at
+[NASA Goddard Space Flight Center](https://www.nasa.gov/goddard) (Greenbelt, MD).
+He was a Queue Observer for the
 [MMT Observatory](https://www.mmto.org) between 2016 and 2019.
 
