@@ -8,10 +8,11 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# Comment out for now
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Projects"
@@ -24,9 +25,15 @@
   weight = 40
 
 [[main]]
+  name = "Dissertation"
+  url = "files/LyChun_UCLA_dissertation.pdf"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
