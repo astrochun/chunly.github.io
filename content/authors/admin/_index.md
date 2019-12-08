@@ -25,6 +25,8 @@ interests:
 - Galaxy formation and evolution
 - Open and reproducible science
 - Astronomical data processing
+- Enabling digital literacy with student mentoring, [Software Carpentry](https://carpentries.org/),
+  and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
 education:
   courses:
@@ -52,12 +54,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/astrochun
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/astrochunly
 - icon: cv
   icon_pack: ai
   link: files/CV.pdf
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chunly
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/astrochunly
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -72,14 +77,15 @@ user_groups:
 ---
 
 Dr. Chun Ly is the Research Data Systems Integration Specialist for
-University Libraries and an observational research astronomer at the Steward
-Observatory.  In his current Librarian role, he is supporting the roll-out of
-a research data repository service to enable open and reproducible science at
-the UofA.  He earned his Bachelor's degrees in Astronomy and Physics from the
-University of Arizona, and received his Master's and Ph.D. from the University
-of California−Los Angeles. After completing his Ph.D., Dr. Ly held a Giacconi
-Postdoctoral Fellowship position at the Space Telescope Science Institute
-(Baltimore, MD) and a NASA Postdoctoral Fellowship at NASA Goddard Space Flight
-Center (Greenbelt, MD).  He was a Queue Observer for the MMT Observatory
-between 2016 and 2019.
+[University Libraries](https://new.library.arizona.ed) and an Affiliate
+Assistant Astronomer at the [Steward Observatory](https://www.as.arizona.edu).
+In his current Librarian role, he is supporting the roll-out of a research data
+repository service to enable open and reproducible science at the UofA.  He
+earned his Bachelor's degrees in Astronomy and Physics from the University of
+Arizona, and received his Master's and Ph.D. from the University of California−Los
+Angeles. After completing his Ph.D., Dr. Ly held a Giacconi Postdoctoral Fellowship
+position at the [Space Telescope Science Institute](https://www.stsci.edu)
+(Baltimore, MD) and a NASA Postdoctoral Fellowship at [NASA Goddard Space Flight
+Center](https://www.nasa.gov/goddard) (Greenbelt, MD).  He was a Queue Observer for the
+[MMT Observatory](https://www.mmto.org) between 2016 and 2019.
 
