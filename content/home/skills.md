@@ -25,11 +25,23 @@ subtitle = ""
   icon_pack = "fab"
   name = "git"
 # description = "90%"
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "Overleaf"
+# description = "90%"
+
   
 [[feature]]
   icon = "figshare"
   icon_pack = "ai"
   name = "Figshare"
 # description = "100%"
+
+[[feature]]
+  icon = "ads"
+  icon_pack = "ai"
+  name = "ADS"
 
 +++
