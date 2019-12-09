@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "chunly@email.arizona.edu"
+email = "chunly@arizona.edu"
 phone = "(520) 621-5975"
 
 # Address
