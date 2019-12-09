@@ -32,10 +32,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Astronomy
-    institution: University of California Los Angeles
+    institution: University of California, Los Angeles
     year: 2010
   - course: MSc. in Astronomy
-    institution: University of California Los Angeles
+    institution: University of California, Los Angeles
     year: 2006
   - course: BSc. in Astronomy and Physics
     institution: University of Arizona
@@ -68,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "chunly@arizona.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
