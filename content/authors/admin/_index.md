@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chun Ly
+name: Chun Ly, Ph.D.
 
 # Username (this should match the folder name)
 authors:
