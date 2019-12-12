@@ -32,7 +32,6 @@ subtitle = ""
   name = "Overleaf"
 # description = "90%"
 
-  
 [[feature]]
   icon = "figshare"
   icon_pack = "ai"
