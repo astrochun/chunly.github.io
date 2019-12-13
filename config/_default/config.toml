@@ -9,7 +9,7 @@ title = "Chun Ly"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://chunly.github.io/"
+baseurl = "https://astrochun.github.io/"
 # baseurl = "file:///Users/cly/codes/Academic_Website/public/"
 # baseurl = "https://www.u.arizona.edu/~chunly/" # For UA landing page
 
