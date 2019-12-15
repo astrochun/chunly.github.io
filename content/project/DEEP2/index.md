@@ -6,7 +6,7 @@ tags:
 - Galaxy evolution
 - Chemical enrichment
 
-date: "2019-12-08T00:00:00Z"
+date: "2019-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,6 +47,8 @@ enabling gas-phase chemical abundance determination.
 Using the [publicly available data](http://deep.ps.uci.edu/DR4/home.html), I
 identified a large sample of 28 galaxies with detection of
 $[{\rm O~{\small III}}]\lambda4363$, a gas temperature diagnostics.
+
+{{< figure library="true" src="Ly2015_fig1.jpg" title="A caption" lightbox="true" >}}
 
 This work, titled "_Metal-poor, Strongly Star-forming Galaxies in the DEEP2 Survey:
 The Relationship between Stellar Mass, Temperature-based Metallicity, and Star
