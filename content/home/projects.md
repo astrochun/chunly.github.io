@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Research"
     tag = "Research"
+
+  [[content.filter_button]]
+    name = "Astronomical Data Analysis"
+    tag = "Astronomical Data Analysis"
   
   [[content.filter_button]]
     name = "Digital Literacy"
