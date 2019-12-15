@@ -55,3 +55,27 @@ This work, titled "_Metal-poor, Strongly Star-forming Galaxies in the DEEP2 Surv
 The Relationship between Stellar Mass, Temperature-based Metallicity, and Star
 Formation Rate_", is published in the
 [_Astrophysical Journal_](https://dx.doi.org/10.1088/0004-637X/805/1/45).
+
+
+## _Spitzer_ follow-up imaging to characterize stellar population
+
+While the spectra enabled us to characterize the interstellar gas properties
+of these metal-poor galaxies, understanding the stellar properties of these
+$[{\rm O~{\small III}}]\lambda4363$-detected galaxies requires observations
+in the infrared to detect the light from low-mass stars.  Using the
+[InfraRed Array Camera (IRAC)](https://www.cfa.harvard.edu/irac/) on the
+NASA's [_Spitzer Space Telescope_](http://www.spitzer.caltech.edu/), I
+obtained deep imaging at 3.6 $\mu$m.
+
+These observations demonstrated that these galaxies are very faint, and can
+be classified as "dwarf" galaxies. In addition, our work illustrated a strong
+evolution in the mass--metallicity relation, $(1+z)^{-1.45\^{+0.61}\_{-0.76}}$.
+Specifically, we find that lower mass galaxies ($4\times10^8~M_{\odot}$) built
+up their metal content 1.6 times more rapidly than higher mass galaxies
+($10\^{10}~M_{\odot}$). We also found that there is not a secondary
+dependence on star formation in the mass--metallicity relation.
+
+This work is now published in the
+[_Monthly Notices of the Royal Astronomical Society_](http://dx.doi.org/10.1093/mnras/stz3047)
+as a first-author paper for Drew Weldon, a former undergraduate astronomy major at the
+UofA and now attending UC Riverside for graduate school.
