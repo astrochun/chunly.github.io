@@ -94,14 +94,14 @@ address = {street = "1510 E University Blvd", city = "Tucson", region = "AZ", po
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.230910", longitude = "-110.948860"}
+# coordinates = {latitude = "32.230910", longitude = "-110.948860"}
 
 # Directions for visitors to locate you.
 directions = "Fifth floor of Main Library on Side A, Room A501"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Mondays to Fridays: 8AM to 5PM"]
+# office_hours = ["Mondays to Fridays: 8AM to 5PM"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
