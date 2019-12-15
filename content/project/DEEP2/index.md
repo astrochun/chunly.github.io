@@ -37,7 +37,7 @@ slides: example
 ## Overview
 
 The [DEEP2 Survey](http://deep.ps.uci.edu/) is an extragalactic survey conducted
-by the University of California to obtain deep spectra for $\sim$50,000 faint
+by the University of California to obtain deep optical spectra for $\sim$50,000 faint
 galaxies at redshifts of $0 < z < 1.4$. These spectra have provided accurate
 redshifts for $\approx$40,000 galaxies. While the spectra were primarily used
 to determine distances/redshifts using two emission lines, a subset of the
@@ -48,7 +48,8 @@ Using the [publicly available data](http://deep.ps.uci.edu/DR4/home.html), I
 identified a large sample of 28 galaxies with detection of
 $[{\rm O~{\small III}}]\lambda4363$, a gas temperature diagnostics.
 
-{{< figure library="true" src="Ly2015_fig1.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="Ly2015_fig1.jpg" lightbox="true"
+    title="Illustration of eight galaxies with $[{\rm O~{\small III}}]\lambda4363$ detections ([Ly et al. 2015](https://dx.doi.org/10.1088/0004-637X/805/1/45))" >}}
 
 This work, titled "_Metal-poor, Strongly Star-forming Galaxies in the DEEP2 Survey:
 The Relationship between Stellar Mass, Temperature-based Metallicity, and Star
