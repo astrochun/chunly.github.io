@@ -15,15 +15,16 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/astrochunly
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
