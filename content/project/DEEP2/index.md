@@ -33,3 +33,17 @@ url_video: ""
 slides: example
 ---
 
+## Overview
+
+The [DEEP2 Survey](http://deep.ps.uci.edu/) is an extragalactic survey conducted
+by the University of California to obtain deep spectra for $\sim$50,000 faint
+galaxies at redshifts of $0 < z < 1.4$. These spectra have provided accurate
+redshifts for $\approx$40,000 galaxies. While the spectra were primarily used
+to determine distances/redshifts using two emission lines, a subset of the
+sample contains spectral coverage that span 3700--5010 Angstroms, enabling
+gas-phase chemical abundance determination.
+
+Using the [publicly available data](http://deep.ps.uci.edu/DR4/home.html), I
+identified a large sample of 28 galaxies with detection of
+$[{\rm O~{\small III}}]\lambda4363$, a gas temperature diagnostics.
+
