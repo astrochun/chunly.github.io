@@ -67,6 +67,9 @@ in the infrared to detect the light from low-mass stars.  Using the
 NASA's [_Spitzer Space Telescope_](http://www.spitzer.caltech.edu/), I
 obtained deep imaging at 3.6 $\mu$m.
 
+{{< figure library="true" src="Weldon19_fig1.jpg" lightbox="true" width="100%"
+    title="_Spitzer_/IRAC observations of all 28 metal-poor galaxies from Ly et al. (2015)" >}}
+
 These observations demonstrated that these galaxies are very faint, and can
 be classified as "dwarf" galaxies. In addition, our work illustrated a strong
 evolution in the mass--metallicity relation, $(1+z)^{-1.45\^{+0.61}\_{-0.76}}$.
