@@ -25,11 +25,23 @@ date_format = "Jan 2006"
   date_start = "2019-09-23"
   date_end = ""
   description = """
-  XXX
-
-  Responsibilities include:
+  I am leading the technical deployment of a Figshare-based institutional data
+  repository for the UofA.
   
-  * Fill in
+  My responsibilities include:
+
+  * Technical oversight and software development.  This includes engaging with
+    major campus stakeholders to identify and develop workflows for integrating
+    the research data repository system with existing library, campus computing,
+    and research administration systems, such as, single-sign on (SSO) with
+    the University's enterprise-level Shibboleth system, [ORCiD](https://orcid.org/),
+    and [UofA HPC](http://hpc.arizona.edu/) and [CyVerse](https://cyverse.org/)
+    cyberinfrastructure
+  * Conduct outreach to engage researchers across campus to use the data
+    repository for open and reproducible science
+  * Participate in discussions regarding data repository curation and governance
+    policies.
+  * Routine management and maintenance of the data repository
   """
 
 [[experience]]
