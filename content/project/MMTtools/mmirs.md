@@ -14,14 +14,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/astrochunly
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  name: GitHub
+  url: https://www.github.com/astrochun/MMTtools
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,3 +31,4 @@ url_video: ""
 slides: example
 ---
 
+This page is under construction. Stay tuned!
