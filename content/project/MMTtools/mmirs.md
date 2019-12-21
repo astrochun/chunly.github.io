@@ -39,3 +39,9 @@ The pipeline software, developed by Igor Chilingarian (SAO), is published
 in the [PASP Journal](http://dx.doi.org/10.1086/680598). The pipeline's
 git repository is available [here](https://bitbucket.org/chil_sai/mmirs-pipeline/wiki/Home).
 
+One difficulty with using `mmirs-pipeline` is the use of "taskfiles" that
+describe the observation and the steps for data reduction.  These files are
+constructed for each pair of dithered spectra.  No existing software existed to
+create these files.  As such, a lot of manual effort on the part of a researcher
+was needed.
+
