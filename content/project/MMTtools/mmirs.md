@@ -31,4 +31,11 @@ links:
 slides: example
 ---
 
-This page is under construction. Stay tuned!
+Reduction of [MMIRS (MMT and Magellan Infrared Spectograph)](https://www.cfa.harvard.edu/mmti/mmirs.html)
+spectral data is possible using an existing open-source pipeline called
+`mmirs-pipeline`.
+
+The pipeline software, developed by Igor Chilingarian (SAO), is published
+in the [PASP Journal](http://dx.doi.org/10.1086/680598). The pipeline's
+git repository is available [here](https://bitbucket.org/chil_sai/mmirs-pipeline/wiki/Home).
+
