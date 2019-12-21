@@ -1,6 +1,6 @@
 ---
 title: Automation of MMT/MMIRS data reduction
-summary: Using public data to understand chemical enrichment in galaxies
+summary: A Python tool to enable automation of spectral data reduction
 tags:
 - Astronomical Data Analysis
 
