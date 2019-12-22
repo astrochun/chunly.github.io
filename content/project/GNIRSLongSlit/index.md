@@ -37,4 +37,15 @@ links:
 slides: example
 ---
 
+## Overview
+
+The [Gemini Near-Infrared Spectograph (GNIRS)](https://www.gemini.edu/sciops/instruments/gnirs/)
+was commissioned in 2004 by the [Gemini Observatory](https://www.gemini.edu/).
+With coverage of 1--5$\mu$m, it remains a work-horse facility instrument on
+the Gemini North telescope in Hawai`i.
+
+Recently, I used this instrument to obtain near-infrared spectra for low-mass
+galaxies at $z\approx0.8$. I learned that while Gemini has provided an IRAF
+reduction pipeline, automated implementation of this pipeline has been limited.
+
 This page is under construction. Stay tuned!
