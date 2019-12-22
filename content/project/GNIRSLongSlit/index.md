@@ -45,7 +45,14 @@ With coverage of 1--5$\mu$m, it remains a work-horse facility instrument on
 the Gemini North telescope in Hawai`i.
 
 Recently, I used this instrument to obtain near-infrared spectra for low-mass
-galaxies at $z\approx0.8$. I learned that while Gemini has provided an IRAF
-reduction pipeline, automated implementation of this pipeline has been limited.
+galaxies at $z\approx0.8$. I learned that while Gemini has provided an [IRAF
+reduction pipeline](https://www.gemini.edu/node/11823), automated
+implementation of this pipeline has been limited. For example, this
+[website](https://www.gemini.edu/sciops/data-and-results/getting-started#gnirs)
+provided a number of tutorial, but ultimately the user needed to create scripts
+to execute, as this [example script](http://www.gemini.edu/sciops/data/IRAFdoc/gnirs_xd_example.cl)
+demonstrates.  While Gemini recently released the [DRAGONS Python-based
+data reduction pipeline](https://ascl.net/1811.002), reduction is limited
+to imaging data.
 
 This page is under construction. Stay tuned!
