@@ -1,6 +1,7 @@
 ---
 title: Gemini GNIRS Longslit Reduction
-summary: Using public data to understand chemical enrichment in galaxies
+summary: A Python/PyRAF data reduction pipeline for longslit near-infared
+         spectra from Gemini/GNIRS instrument
 tags:
 - Astronomical Data Analysis
 
@@ -13,6 +14,11 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+links:
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://www.github.com/astrochun/GNIRSLongSlit
 #links:
 #- icon: twitter
 #  icon_pack: fab
