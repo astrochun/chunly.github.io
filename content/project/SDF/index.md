@@ -43,6 +43,9 @@ Why stare for so long? To identify some of the faintest galaxies in the early
 universe! To do so, the survey utilized a technique called "narrowband imaging"
 to pick up emission from hydrogen and oxygen gas that reside within galaxies.
 
+{{< figure library="true" src="sdf_moon.png" lightbox="true" width="65%"
+    title="Areal comparison of the SDF against the Hubble Deep Field (HDF) and the Moon" >}}
+
 Using the MMT, Keck, and Subaru observatories, my collaborators and I have
 targeted some of these faint galaxies with optical and near-infrared
 spectrographs. We found a rare population of galaxies that are rapidly forming
