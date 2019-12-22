@@ -67,5 +67,10 @@ subtitle = ""
 +++
 
 {{% alert note %}}
+Full publication list in PDF format available [here](/files/Bib.pdf).
+{{% /alert %}}
+
+{{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
