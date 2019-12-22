@@ -5,7 +5,7 @@ summary: A deep extragalactic survey of star-forming galaxies with the
 tags:
 - Research
 - Galaxy evolution
-date: "2016-04-27T00:00:00Z"
+date: "2019-12-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
