@@ -5,7 +5,7 @@ publishDate: 2019-12-18T05:51:02.756150Z
 authors: ["C. Ly", "M.~A. Malkan", "N. Kashikawa", "K. Shimasaku", "M. Doi", "T. Nagao", "M. Iye", "T. Kodama", "T. Morokuma", "K. Motohara"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*apj*"
 tags: ["Galaxies: Distances and Redshifts", "Galaxies: Evolution", "Galaxies: Luminosity Function", "Mass Function", "Galaxies: Photometry"]
 doi: "10.1086/510828"

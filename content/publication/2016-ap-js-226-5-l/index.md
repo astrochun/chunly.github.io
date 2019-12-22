@@ -5,7 +5,7 @@ publishDate: 2019-12-18T05:51:02.732415Z
 authors: ["C. Ly", "S. Malhotra", "M.~A. Malkan", "J.~R. Rigby", "N. Kashikawa", "M.~A. de los Reyes", "J.~E. Rhoads"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*apjs*"
 tags: ["galaxies: abundances", "galaxies: distances and redshifts", "galaxies: evolution", "galaxies: ISM", "galaxies: photometry", "galaxies: star formation"]
 doi: "10.3847/0067-0049/226/1/5"
