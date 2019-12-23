@@ -67,6 +67,12 @@ and distributed under an [MIT License](https://choosealicense.com/licenses/mit/)
 The pipeline has several features:
 
 - Longslit target acquisition checks with quality assurance (QA) visualization
-- CLEANIR
+- Correct detector readout artefacts with
+  [`CLEANIR` routine](https://www.gemini.edu/sciops/instruments/niri/data-format-and-reduction/cleanir)
+- Flat fielding
+- Wavelength calibration
+- Dithered stacking
+- Telluric flux calibration
+- Spectral extraction
 
 This page is under construction. Stay tuned!
