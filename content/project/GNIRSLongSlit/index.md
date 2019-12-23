@@ -63,6 +63,8 @@ expedite data reduction for my project. Thus, I created a Python/PyRAF
 pipeline that used the existing Gemini IRAF package. This automation pipeline
 is made publicly available on [GitHub](https://github.com/astrochun/GNIRSLongSlit)
 and distributed under an [MIT License](https://choosealicense.com/licenses/mit/).
+Because of the dependence on PyRAF/IRAF, this code is only compatible with
+Python 2.7.
 
 The pipeline has several features:
 
