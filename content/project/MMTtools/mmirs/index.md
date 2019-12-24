@@ -45,3 +45,13 @@ constructed for each pair of dithered spectra.  No existing software existed to
 create these files.  As such, a lot of manual effort on the part of a researcher
 was needed.
 
+## The Python Tool
+
+As part of a larger Python git repository ([MMTtools](www.github.com/astrochun/MMTtools)),
+`mmirs_pipeline_taskfile` is a Python tool (compatible with 2.7 and 3.xx) that
+constructs the necessary task files and IDL script for execution. This code is
+made publicly available under an [MIT License](https://choosealicense.com/licenses/mit/).
+
+The code is available through PyPI, although cloning from the GitHub repository
+will give you the latest stable version.  Below are the steps for installation and the
+necessary prerequisite:
