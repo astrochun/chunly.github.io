@@ -5,7 +5,7 @@ summary: A Python/PyRAF data reduction pipeline for longslit near-infared
 tags:
 - Astronomical Data Analysis
 
-date: "2019-12-15T00:00:00Z"
+date: "2019-12-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
