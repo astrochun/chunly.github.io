@@ -67,4 +67,16 @@ these galaxy interactions can drive new metal pristine gas into the galaxies,
 \making it appear "metal-poor" and fueling recent star formation. You can
 find more information in our paper.
 
+### II. Lyman Break Galaxies in the Redshift Desert with _GALEX_ imaging
+
+### III. Census of Star-Forming Galaxies at "Galaxy High Noon"
+
+### IV. Dust Attenuation and Star Formation in Dwarf Galaxies
+
+### V.
+
+### VI. Extremely Metal-Poor Galaxies
+
+### VII.
+
 This page is under construction. Stay tuned!
