@@ -51,6 +51,7 @@ to pick up emission from hydrogen and oxygen gas that reside within galaxies.
 {{< figure library="true" src="Ly2014_fig1.jpg" lightbox="true" width="75%"
     title="Narrowband and intermediate filters for the SDF ([Ly et al. 2014](http://dx.doi.org/10.1088/0004-637X/780/2/122))" >}}
 
+### I. Luminosity Function and Star Formation Rate Density
 
 Using the MMT, Keck, and Subaru observatories, my collaborators and I have
 targeted some of these faint galaxies with optical and near-infrared
