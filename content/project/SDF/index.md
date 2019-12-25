@@ -36,9 +36,10 @@ slides: example
 
 The Subaru 8.2-meter telescope has stared for over 30 nights at one particular
 region of the northern sky with one of the most sensitive optical imagers in
-the world, Suprime-Cam. This camera enables images to be taken over a large
-part of the sky that is comparable to the angular extent of the Moon. The large
-area allows us to look at hundreds of thousands of galaxies simultaneously.
+the world (Suprime-Cam) to develop the Subaru Deep Field (SDF). This camera
+enables images to be taken over a large part of the sky that is comparable to
+the angular extent of the Moon. The large area allows us to look at hundreds
+of thousands of galaxies simultaneously.
 
 {{< figure library="true" src="sdf_moon.png" lightbox="true" width="65%"
     title="Areal comparison of the SDF against the Hubble Deep Field (HDF) and the Moon" >}}
@@ -48,7 +49,7 @@ universe! To do so, the survey utilized a technique called "narrowband imaging"
 to pick up emission from hydrogen and oxygen gas that reside within galaxies.
 
 {{< figure library="true" src="Ly2014_fig1.jpg" lightbox="true" width="75%"
-    title="Narrowband and intermediate filters for the SDF (Ly et al. 2014)" >}}
+    title="Narrowband and intermediate filters for the SDF ([Ly et al. 2014](http://dx.doi.org/10.1088/0004-637X/780/2/122))" >}}
 
 
 Using the MMT, Keck, and Subaru observatories, my collaborators and I have
