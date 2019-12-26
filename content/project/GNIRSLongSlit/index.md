@@ -77,4 +77,10 @@ The pipeline has several features:
 - Telluric flux calibration
 - Spectral extraction
 
+
+### Installation
+
+Installation is best done by cloning the GitHub repository and installing PyRAF.
+
+
 This page is under construction. Stay tuned!
