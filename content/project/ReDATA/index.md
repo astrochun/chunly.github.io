@@ -39,12 +39,12 @@ slides: example
 There has been a growing need for digital preservation to enable open and
 reproducible science.  One of the major drivers for researchers is the
 requirement from federal agencies (e.g., NSF, NASA, NIH, DoE)
-of a data management plan. Data repositories, such as,
-[Dataverse](https://dataverse.org/), [Zenodo](https://zenodo.org/), and
-[Figshare](https://figshare.com/) are being used across all disciplines,
-including science, humanities, medicine, and technology to satisfy
-funder's requirements and other needs. These repository services focus
-on following the guiding data principles of
+of a [data management plan](https://data.library.arizona.edu/data-management-plans).
+Data repositories, such as, [Dataverse](https://dataverse.org/),
+[Zenodo](https://zenodo.org/), and [Figshare](https://figshare.com/) are being
+used across all disciplines, including science, humanities, medicine, and
+technology to satisfy funder's requirements and other needs. These repository
+services focus on following the guiding data principles of
 [FAIR](https://www.go-fair.org/fair-principles/)
 (Findable, Accessible, Interoperable, and Reusable).
 
