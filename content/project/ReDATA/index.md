@@ -1,7 +1,7 @@
 ---
 title: UofA Research Data Repository
 summary: An institutional data repository to enable open and reproducible
-         science for the UofA
+         science at the UofA
 tags:
 - Digital Literacy
 - Open Science
@@ -33,6 +33,16 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+There has been a growing need for digital preservation to enable open and
+reproducible science.  Data repositories, such as,
+[Dataverse](https://dataverse.org/), [Zenodo](https://zenodo.org/), and
+[Figshare](https://figshare.com/) are being used across all disciplines,
+including science, humanities, medicine, and technology. These repository
+services focus on following the guiding data principles of
+[FAIR](https://www.go-fair.org/fair-principles/)
+(Findable, Accessible, Interoperable, and Reusable).
+
 
 This page is under construction. Stay tuned!
 
