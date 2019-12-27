@@ -34,6 +34,8 @@ image:
 slides: example
 ---
 
+## Overview
+
 There has been a growing need for digital preservation to enable open and
 reproducible science.  One of the major drivers for researchers is the
 requirement from federal agencies (e.g., NSF, NASA, NIH, DoE, etc)
@@ -50,9 +52,15 @@ institutional data repositories to serve the greater needs of their university.
 These repositories also enable university administration to track
 the research outputs and productivity.
 
+Motivated by a number of factors, the University of Arizona Libraries is leading
+the effort to develop and sustain a data repository with funding from the
+[Provost Investment Fund](https://provost.arizona.edu/provost-investment-fund).
+The repository, called ReDATA, will be hosted through an institutional Figshare
+site.
+
+More information about the data repository is available
+[here](https://data.library.arizona.edu/services/ua-research-data-repository).
 
 This page is under construction. Stay tuned!
-
-## Overview
 
 ## Other stuff
