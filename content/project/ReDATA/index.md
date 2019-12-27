@@ -62,6 +62,21 @@ The repository, called ReDATA, will be hosted through an
 More information about the data repository is available
 [here](https://data.library.arizona.edu/services/ua-research-data-repository).
 
+In my current role as Research Data Systems Integration Specialist, I help with
+  * Technical oversight and software development.  This includes engaging with
+    major campus stakeholders to identify and develop workflows for integrating
+    the research data repository system with existing library, campus computing,
+    and research administration systems, such as, single-sign on (SSO) with
+    the University's enterprise-level Shibboleth system, [ORCiD](https://orcid.org/),
+    and [UofA HPC](http://hpc.arizona.edu/) and [CyVerse](https://cyverse.org/)
+    cyberinfrastructure
+  * Conduct outreach to engage researchers across campus to use the data
+    repository to satisfy funder's mandates and for open and reproducible science
+  * Participate in discussions regarding data repository curation and governance
+    policies.
+  * Routine management and maintenance of the data repository
+
+
 This page is under construction. Stay tuned!
 
 ## Other stuff
