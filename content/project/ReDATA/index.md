@@ -35,13 +35,20 @@ slides: example
 ---
 
 There has been a growing need for digital preservation to enable open and
-reproducible science.  Data repositories, such as,
+reproducible science.  One of the major drivers for researchers is the
+requirement from federal agencies (e.g., NSF, NASA, NIH, DoE, etc)
+of a data management plan. Data repositories, such as,
 [Dataverse](https://dataverse.org/), [Zenodo](https://zenodo.org/), and
 [Figshare](https://figshare.com/) are being used across all disciplines,
 including science, humanities, medicine, and technology. These repository
 services focus on following the guiding data principles of
 [FAIR](https://www.go-fair.org/fair-principles/)
 (Findable, Accessible, Interoperable, and Reusable).
+
+In addition to these public repositories, R-1 universities have been providing
+institutional data repositories to serve the greater needs of their university.
+These repositories also enable university administration to track
+the research outputs and productivity.
 
 
 This page is under construction. Stay tuned!
