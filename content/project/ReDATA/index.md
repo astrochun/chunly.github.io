@@ -89,6 +89,16 @@ operate, we would like to work with you! As an early adopter, you’ll be able
 to work directly with the data repository team.  Please contact us at:
 [data-management@email.arizona.edu](data-management@email.arizona.edu)
 
+---
+
+### Upcoming Talks and Events
+
+We are planning a number of events in 2020.  Events will include:
+* Weekly drop-in at the CATalyst Studios for help with depositing data
+* Informational talks and demos at IT Summit InterACTIVE, and Research Bazaar
+  Arizona
+
+
 This page is under construction. Stay tuned!
 
 ## Other stuff
