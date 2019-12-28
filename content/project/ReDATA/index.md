@@ -101,4 +101,3 @@ We are planning a number of events in 2020.  Events will include:
 
 This page is under construction. Stay tuned!
 
-## Other stuff
