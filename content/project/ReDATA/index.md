@@ -76,6 +76,18 @@ In my current role as Research Data Systems Integration Specialist, I help with
     policies.
   * Routine management and maintenance of the data repository
 
+---
+
+### Announcement: Early Adopters Needed
+
+For Spring 2020, we are looking for early adopters to deposit research
+datasets, code, media, and other materials and to provide feedback on process
+and policies, while acting as champions for the repository.
+
+If you’d like to influence how UA’s public research data repository will
+operate, we would like to work with you! As an early adopter, you’ll be able
+to work directly with the data repository team.  Please contact us at:
+[data-management@email.arizona.edu](data-management@email.arizona.edu)
 
 This page is under construction. Stay tuned!
 
