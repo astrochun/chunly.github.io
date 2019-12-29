@@ -36,7 +36,8 @@ slides: example
 
 The Subaru 8.2-meter telescope has stared for over 30 nights at one particular
 region of the northern sky with one of the most sensitive optical imagers in
-the world (Suprime-Cam) to develop the Subaru Deep Field (SDF). This camera
+the world (Suprime-Cam) to develop the Subaru Deep Field (SDF;
+[Kashikawa et al. 2004](https://dx.doi.org/:10.1093/pasj/56.6.1011)). This camera
 enables images to be taken over a large part of the sky that is comparable to
 the angular extent of the Moon. The large area allows us to look at hundreds
 of thousands of galaxies simultaneously.
@@ -45,13 +46,24 @@ of thousands of galaxies simultaneously.
     title="Areal comparison of the SDF against the Hubble Deep Field (HDF) and the Moon" >}}
 
 Why stare for so long? To identify some of the faintest galaxies in the early
-universe! To do so, the survey utilized a technique called "narrowband imaging"
-to pick up emission from hydrogen and oxygen gas that reside within galaxies.
+universe! To do so, the survey utilized a unique technique called "narrowband
+imaging" to pick up emission from hydrogen and oxygen gas that reside within
+galaxies.
 
 {{< figure library="true" src="Ly2014_fig1.jpg" lightbox="true" width="75%"
-    title="Narrowband and intermediate filters for the SDF ([Ly et al. 2014](http://dx.doi.org/10.1088/0004-637X/780/2/122))" >}}
+    title="Narrowband and intermediate filters for the SDF (adapted from [Ly et al. 2014](http://dx.doi.org/10.1088/0004-637X/780/2/122))" >}}
 
 ### I. Luminosity Function and Star Formation Rate Density
+
+### II. Lyman Break Galaxies in the Redshift Desert with _GALEX_ imaging
+
+### III. Census of Star-Forming Galaxies at "Galaxy High Noon"
+
+### IV. Dust Attenuation and Star Formation in Dwarf Galaxies
+
+### V.
+
+### VI. Extremely Metal-Poor Galaxies
 
 Using the MMT, Keck, and Subaru observatories, my collaborators and I have
 targeted some of these faint galaxies with optical and near-infrared
@@ -66,16 +78,6 @@ understand why these galaxies have so few metals. One interpretation is that
 these galaxy interactions can drive new metal pristine gas into the galaxies,
 \making it appear "metal-poor" and fueling recent star formation. You can
 find more information in our paper.
-
-### II. Lyman Break Galaxies in the Redshift Desert with _GALEX_ imaging
-
-### III. Census of Star-Forming Galaxies at "Galaxy High Noon"
-
-### IV. Dust Attenuation and Star Formation in Dwarf Galaxies
-
-### V.
-
-### VI. Extremely Metal-Poor Galaxies
 
 ### VII.
 
