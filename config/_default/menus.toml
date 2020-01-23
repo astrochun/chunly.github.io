@@ -8,15 +8,14 @@
   url = "#about"
   weight = 10
 
-# Comment out for now
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
-
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 20
+
+[[main]]
+  name = "Posts"
+  url = "#posts"
   weight = 30
 
 [[main]]
