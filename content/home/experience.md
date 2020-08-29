@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   I am leading the technical deployment of the UofA institutional data
   repository called [ReDATA](https://arizona.figshare.com).
   
-  My responsibilities include:
+  My roles include:
 
   * DevOps. Developing front- and/or back-end software to enable and automate
     identity and access management, data curation, and data preservation,
@@ -61,7 +61,14 @@ date_format = "Jan 2006"
   location = "Tucson, Arizona"
   date_start = "2016-09-01"
   date_end = "2019-09-22"
-  description = ""
+  description = """
+  Acquired astronomical data on a 6.5-meter optical and infrared telescope.
+  I have over 300 nights experience and provided technical oversight to
+  science instrument PIs, research scientists, software engineers, and
+  engineers. In addition, I develop software to enable data analysis
+  automation
+  """
+
 
 [[experience]]
   title = "NASA Postdoctoral Fellow"
