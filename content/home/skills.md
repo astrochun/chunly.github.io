@@ -17,13 +17,31 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
+  name = "python"
 # description = "90%"
 
 [[feature]]
-  icon = "git"
+  icon = "git-alt"
   icon_pack = "fab"
   name = "git"
+# description = "90%"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "gh"
+# description = "90%"
+
+[[feature]]
+  icon = "digital-ocean"
+  icon_pack = "fab"
+  name = "Digital Ocean"
+# description = "90%"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "docker"
 # description = "90%"
 
 [[feature]]
@@ -39,8 +57,16 @@ subtitle = ""
 # description = "100%"
 
 [[feature]]
+  icon = "doi"
+  icon_pack = "ai"
+
+[[feature]]
   icon = "ads"
   icon_pack = "ai"
   name = "ADS"
 
+[[feature]]
+  icon = "arxiv"
+  icon_pack = "ai"
+  name = "arXiv"
 +++
