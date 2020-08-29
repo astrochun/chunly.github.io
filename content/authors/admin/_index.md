@@ -83,14 +83,14 @@ user_groups:
 Chun Ly is the Research Data Systems Integration Specialist for
 [University Libraries](https://new.library.arizona.ed) and an Affiliate
 Assistant Astronomer at [Steward Observatory](https://www.as.arizona.edu)
-at the University of Arizona (UofA). In his current Librarian role, he is
-supporting the roll-out of a research data repository service to enable open
-and reproducible science at the UofA.  He earned his Bachelor's degrees in
-Astronomy and Physics from the UofA, and received his Master's and Ph.D. from
-the [University of California−Los Angeles](http://www.ucla.edu/). After
-completing his Ph.D., Chun held a Giacconi Postdoctoral Fellowship position at
-the [Space Telescope Science Institute](https://www.stsci.edu) (Baltimore, MD)
-and a NASA Postdoctoral Fellowship at the
+at the University of Arizona (UofA). In his current Librarian role, he
+supports the [UA research data repository service (ReDATA)](https://arizona.figshare.com)
+that enables open and reproducible science at the UofA.  He earned his
+Bachelor's degrees in Astronomy and Physics from the UofA, and received his
+Master's and Ph.D. from the [University of California−Los Angeles](http://www.ucla.edu/).
+After completing his Ph.D., Chun held a Giacconi Postdoctoral Fellowship
+position at the [Space Telescope Science Institute](https://www.stsci.edu)
+(Baltimore, MD) and a NASA Postdoctoral Fellowship at the
 [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard) (Greenbelt, MD).
 He was a Queue Observer for the
 [MMT Observatory](https://www.mmto.org) (Mt. Hopkins, AZ) between 2016 and 2019.
