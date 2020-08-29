@@ -25,23 +25,24 @@ date_format = "Jan 2006"
   date_start = "2019-09-23"
   date_end = ""
   description = """
-  I am leading the technical deployment of a Figshare-based institutional data
-  repository for the UofA.
+  I am leading the technical deployment of the UofA institutional data
+  repository called [ReDATA](https://arizona.figshare.com).
   
   My responsibilities include:
 
-  * Technical oversight and software development.  This includes engaging with
-    major campus stakeholders to identify and develop workflows for integrating
-    the research data repository system with existing library, campus computing,
-    and research administration systems, such as, single-sign on (SSO) with
-    the University's enterprise-level Shibboleth system, [ORCiD](https://orcid.org/),
-    and [UofA HPC](http://hpc.arizona.edu/) and [CyVerse](https://cyverse.org/)
-    cyberinfrastructure
-  * Conduct outreach to engage researchers across campus to use the data
+  * DevOps. Developing front- and/or back-end software to enable and automate
+    identity and access management, data curation, and data preservation,
+    and deploying them on cloud infrastructure
+  * Engagement. Connecting with major campus stakeholders to identify and
+    develop workflows for integrating ReDATA with existing library, campus
+    computing, and research administration systems, such as, single-sign on
+    (SSO) with the University's enterprise-level Shibboleth system,
+    [ORCiD](https://orcid.org/), and [UofA HPC](http://hpc.arizona.edu/)
+    infrastructure
+  * Outreach. Engaging researchers across campus to use the data
     repository for open and reproducible science
-  * Participate in discussions regarding data repository curation and governance
+  * Governance. Participate in discussions regarding data repository
     policies.
-  * Routine management and maintenance of the data repository
   """
 
 [[experience]]
