@@ -1,5 +1,5 @@
 ---
-title: Integrating an Overleaf project with your GitHub account
+title: Syncing an Overleaf project with your GitHub account
 
 date: 2020-08-30
 
