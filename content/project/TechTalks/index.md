@@ -1,12 +1,12 @@
 ---
 title: Tech Talks
-summary: Informal talks at the CATalyst Studios
+summary: Tutorials, talks, and blog posts on coding, research tools, and building software
 
 tags:
 - Digital Literacy
 - Open Science
 - Data Management
-date: "2020-01-23T00:00:00Z"
+date: "2020-05-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,9 +37,8 @@ slides: example
 
 Below are materials for recent presentations:
 
+[Research Bazaar Tucson 2020: Beautiful Technical Documents Easily Made with $\LaTeX$ + Overleaf](https://hackmd.io/NP65F9wUQiCC_kpPFrSivA?view)
+
 [Integrating an Overleaf git repo with your GitHub account (the right way!)](/post/overleaf_github_git_sync)
 
 
-This page is under construction. Stay tuned!
-
-fill in the blank
