@@ -1,5 +1,5 @@
 ---
-title: Integrating an Overleaf git repo with your GitHub account (the right way!)
+title: Integrating an Overleaf project with your GitHub account
 
 date: 2020-08-30
 
@@ -57,7 +57,7 @@ $ cd git_integration_project
 ```
 
 You now have a copy of your Overleaf project locally! You can open the content
-with your favorite text editor, and `git add`, `git commit` and `git push`
+with your favorite text editor, and `git add`, `git commit`, and `git push`
 new changes to Overleaf.
 
 ---
