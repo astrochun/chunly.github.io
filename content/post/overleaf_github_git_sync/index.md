@@ -1,7 +1,7 @@
 ---
 title: Integrating an Overleaf git repo with your GitHub account (the right way!)
 
-date: 2020-01-21
+date: 2020-08-30
 
 # View.
 #   1 = List
