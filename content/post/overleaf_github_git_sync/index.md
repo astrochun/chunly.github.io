@@ -79,7 +79,7 @@ __Step 5__: Within the `git_integration project` folder, create a new `git remot
 called `github`:
 
 ```
-$ git remote github https://github.com/<USERNAME>/git_integration_project.git
+$ git remote add github https://github.com/<USERNAME>/git_integration_project.git
 ```
 
 Let's look at our `git remote -v` setup:
