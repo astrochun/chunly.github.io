@@ -21,12 +21,12 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.6.4
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: astrochun/astrochun.github.io
           publish_dir: ./public
-          # keep_files: true
+          keep_files: true
           user_name: astrochun
           user_email: astro.chun@gmail.com
           publish_branch: master
