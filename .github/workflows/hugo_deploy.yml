@@ -25,9 +25,10 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: astrochun/astrochun.github.io
-          publish_dir: ./
-          #   keep_files: true
+          publish_dir: ./public
+          # keep_files: true
           user_name: astrochun
           user_email: astro.chun@gmail.com
           publish_branch: master
+          destination_dir: ./
           commit_message: ${{ github.event.head_commit.message }}
