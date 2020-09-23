@@ -18,10 +18,10 @@ jobs:
           extended: True
 
       - name: Build
-        run: hugo
+        run: hugo && hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.6.4
+        uses: peaceiris/actions-gh-pages@v3.7.0-8
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: astrochun/astrochun.github.io
