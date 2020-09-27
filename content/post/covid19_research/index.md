@@ -3,6 +3,13 @@ title: When the pandemic hit, I used my data analysis and Google Sheet skills to
 
 date: 2020-09-27
 
+tags:
+- COVID19
+- Open Science
+- Data Publishing
+- Data Aggregation
+- Google Sheet
+
 # View.
 #   1 = List
 #   2 = Compact
