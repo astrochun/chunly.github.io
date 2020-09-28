@@ -26,7 +26,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: astrochun/astrochun.github.io
           publish_dir: ./public
-          keep_files: true
+          keep_files: false
           user_name: astrochun
           user_email: astro.chun@gmail.com
           publish_branch: master
