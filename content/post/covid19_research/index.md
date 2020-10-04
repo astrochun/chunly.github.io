@@ -93,7 +93,7 @@ the final table and visualization in the
 under a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 public domain license:
 
-<iframe src="https://widgets.figshare.com/articles/12966581/embed?show_title=true" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+<p align="center"><iframe src="https://widgets.figshare.com/articles/12966581/embed?show_title=true" width="568" height="351" allowfullscreen frameborder="0"></iframe></p>
 
 
 ## Final Thoughts
