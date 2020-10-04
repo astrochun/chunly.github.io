@@ -35,10 +35,10 @@ slides: example
 
 ## Overview
 
-Below are materials for recent presentations:
+Below are materials for recent presentations and blog posts:
 
 [Research Bazaar Tucson 2020: Beautiful Technical Documents Easily Made with $\LaTeX$ + Overleaf](https://hackmd.io/NP65F9wUQiCC_kpPFrSivA?view)
 
-[Integrating an Overleaf git repo with your GitHub account (the right way!)](/post/overleaf_github_git_sync)
+[Syncing an Overleaf project with your GitHub account](/post/overleaf_github_git_sync)
 
 
