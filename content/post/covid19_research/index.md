@@ -79,9 +79,12 @@ and using the [WayBackMachine](https://archive.org/web/) to go back and look at 
 websites. After all the data were aggregated, there was a lot of quality control as some
 numbers disagreed, and that needed to be recorded in the Google Sheet with
 in-cell comments and source identification.  This is what we call good
-[data management](https://en.wikipedia.org/wiki/Data_management) practice. Then, after
-I felt confident of all the numbers, I put together graphs that summarized the
-testing data.
+[data management](https://en.wikipedia.org/wiki/Data_management) practice.
+A preview of the machine-readable consolidated spreadsheet is available below:
+
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3asdKKUNbQj9tpMo8dircaSVxDHJR0fKo8L9cLQ3TMqHb-KBzHmCT_iRl2ie6xbtHEV3V5EHZjuo-/pubhtml?gid=880188181&single=true" frameborder="0" width="715" height="450"></iframe></p>
+
+Then, after I felt confident of all the numbers, <a href="featured.png">I put together graphs that summarized the testing data.</a>
 
 The final culmination of this hard work by my colleagues and I is publishing
 the final table and visualization in the
