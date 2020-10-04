@@ -3,6 +3,12 @@ title: Syncing an Overleaf project with your GitHub account
 
 date: 2020-08-30
 
+tags:
+- Overleaf
+- Technical Writing
+- GitHub
+- Hacking
+
 # View.
 #   1 = List
 #   2 = Compact
