@@ -1,3 +1,6 @@
 public
 public_*
 .idea/
+
+resources
+**.DS_Store
