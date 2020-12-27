@@ -36,7 +36,7 @@ links:
 ---
 
 It's been a few months since I have done a tech/hacking post. I figured it might
-be worthwhile to do a post-mortem on the recent web scraping work that I did.
+be worthwhile to do a quick one on the recent web scraping work that I did.
 
 [Vox Charta](https://voxcharta.org), a web application that allowed astronomers
 to vote and discuss about the latest manuscripts made available on
