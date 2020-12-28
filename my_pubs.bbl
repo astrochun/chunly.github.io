@@ -1,5 +1,61 @@
+@ARTICLE{2020MNRAS.491.2254W,
+       author = {{Weldon}, Andrew and {Ly}, Chun and {Cooper}, Michael},
+        title = "{The stellar population of metal-poor galaxies at z {\ensuremath{\approx}} 0.8 and the evolution of the mass-metallicity relation}",
+      journal = {\mnras},
+     keywords = {galaxies: abundances, galaxies: distances and redshifts, galaxies: evolution, galaxies: photometry, galaxies: star formation, Astrophysics - Astrophysics of Galaxies},
+         year = 2020,
+        month = jan,
+       volume = {491},
+       number = {2},
+        pages = {2254-2267},
+          doi = {10.1093/mnras/stz3047},
+archivePrefix = {arXiv},
+       eprint = {1910.06975},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.2254W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...883..107C,
+       author = {{Conroy}, Charlie and {Bonaca}, Ana and {Cargile}, Phillip and {Johnson}, Benjamin D. and {Caldwell}, Nelson and {Naidu}, Rohan P. and {Zaritsky}, Dennis and {Fabricant}, Daniel and {Moran}, Sean and {Rhee}, Jaehyon and {Szentgyorgyi}, Andrew and {Berlind}, Perry and {Calkins}, Michael L. and {Kattner}, ShiAnne and {Ly}, Chun},
+        title = "{Mapping the Stellar Halo with the H3 Spectroscopic Survey}",
+      journal = {\apj},
+     keywords = {Galaxy: halo, Galaxy: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies},
+         year = 2019,
+        month = sep,
+       volume = {883},
+       number = {1},
+          eid = {107},
+        pages = {107},
+          doi = {10.3847/1538-4357/ab38b8},
+archivePrefix = {arXiv},
+       eprint = {1907.07684},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...883..107C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...880L...4H,
+       author = {{Hosseinzadeh}, G. and {Cowperthwaite}, P.~S. and {Gomez}, S. and {Villar}, V.~A. and {Nicholl}, M. and {Margutti}, R. and {Berger}, E. and {Chornock}, R. and {Paterson}, K. and {Fong}, W. and {Savchenko}, V. and {Short}, P. and {Alexander}, K.~D. and {Blanchard}, P.~K. and {Braga}, J. and {Calkins}, M.~L. and {Cartier}, R. and {Coppejans}, D.~L. and {Eftekhari}, T. and {Laskar}, T. and {Ly}, C. and {Patton}, L. and {Pelisoli}, I. and {Reichart}, D.~E. and {Terreran}, G. and {Williams}, P.~K.~G.},
+        title = "{Follow-up of the Neutron Star Bearing Gravitational-wave Candidate Events S190425z and S190426c with MMT and SOAR}",
+      journal = {\apjl},
+     keywords = {binaries: close, gravitational waves, methods: observational, stars: black holes, stars: neutron, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2019,
+        month = jul,
+       volume = {880},
+       number = {1},
+          eid = {L4},
+        pages = {L4},
+          doi = {10.3847/2041-8213/ab271c},
+archivePrefix = {arXiv},
+       eprint = {1905.02186},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...4H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{2018ApJ...855..128W,
-   author = {{Walker}, R.~C. and {Hardee}, P.~E. and {Davies}, F.~B. and 
+   author = {{Walker}, R.~C. and {Hardee}, P.~E. and {Davies}, F.~B. and
 	{Ly}, C. and {Junor}, W.},
     title = "{The Structure and Dynamics of the Subparsec Jet in M87 Based on 50 VLBA Observations over 17 Years at 43 GHz}",
   journal = {\apj},
@@ -18,8 +74,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2017ApJ...850....5M,
-   author = {{Malkan}, M.~A. and {Cohen}, D.~P. and {Maruyama}, M. and {Kashikawa}, N. and 
-	{Ly}, C. and {Ishikawa}, S. and {Shimasaku}, K. and {Hayashi}, M. and 
+   author = {{Malkan}, M.~A. and {Cohen}, D.~P. and {Maruyama}, M. and {Kashikawa}, N. and
+	{Ly}, C. and {Ishikawa}, S. and {Shimasaku}, K. and {Hayashi}, M. and
 	{Motohara}, K.},
     title = "{Lyman-break Galaxies at z {\tilde} 3 in the Subaru Deep Field: Luminosity Function, Clustering, and [O III] Emission}",
   journal = {\apj},
@@ -37,7 +93,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2016Galax...4...46W,
-   author = {{Walker}, R.~C. and {Hardee}, P.~E. and {Davies}, F. and {Ly}, C. and 
+   author = {{Walker}, R.~C. and {Hardee}, P.~E. and {Davies}, F. and {Ly}, C. and
 	{Junor}, W. and {Mertens}, F. and {Lobanov}, A.},
     title = "{Observations of the Structure and Dynamics of the Inner M87 Jet}",
   journal = {Galaxies},
@@ -54,7 +110,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2016ApJS..226....5L,
-   author = {{Ly}, C. and {Malhotra}, S. and {Malkan}, M.~A. and {Rigby}, J.~R. and 
+   author = {{Ly}, C. and {Malhotra}, S. and {Malkan}, M.~A. and {Rigby}, J.~R. and
 	{Kashikawa}, N. and {de los Reyes}, M.~A. and {Rhoads}, J.~E.
 	},
     title = "{The Metal Abundances across Cosmic Time (MACT) Survey. I. Optical Spectroscopy in the Subaru Deep Field}",
@@ -91,8 +147,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2015PASJ...67...80H,
-   author = {{Hayashi}, M. and {Ly}, C. and {Shimasaku}, K. and {Motohara}, K. and 
-	{Malkan}, M.~A. and {Nagao}, T. and {Kashikawa}, N. and {Goto}, R. and 
+   author = {{Hayashi}, M. and {Ly}, C. and {Shimasaku}, K. and {Motohara}, K. and
+	{Malkan}, M.~A. and {Nagao}, T. and {Kashikawa}, N. and {Goto}, R. and
 	{Naito}, Y.},
     title = "{Physical conditions of the interstellar medium in star-forming galaxies at z {\tilde} 1.5}",
   journal = {\pasj},
@@ -127,8 +183,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2015AJ....149...79D,
-   author = {{de los Reyes}, M.~A. and {Ly}, C. and {Lee}, J.~C. and {Salim}, S. and 
-	{Peeples}, M.~S. and {Momcheva}, I. and {Feddersen}, J. and 
+   author = {{de los Reyes}, M.~A. and {Ly}, C. and {Lee}, J.~C. and {Salim}, S. and
+	{Peeples}, M.~S. and {Momcheva}, I. and {Feddersen}, J. and
 	{Dale}, D.~A. and {Ouchi}, M. and {Ono}, Y. and {Finn}, R.},
     title = "{The Relationship between Stellar Mass, Gas Metallicity, and Star Formation Rate for H{$\alpha$}-Selected Galaxies at z {\ap} 0.8 from the NewH{$\alpha$} Survey}",
   journal = {\aj},
@@ -146,7 +202,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2014ApJ...797..126S,
-   author = {{Salim}, S. and {Lee}, J.~C. and {Ly}, C. and {Brinchmann}, J. and 
+   author = {{Salim}, S. and {Lee}, J.~C. and {Ly}, C. and {Brinchmann}, J. and
 	{Dav{\'e}}, R. and {Dickinson}, M. and {Salzer}, J.~J. and {Charlot}, S.
 	},
     title = "{A Critical Look at the Mass-Metallicity-Star Formation Rate Relation in the Local Universe. I. An Improved Analysis Framework and Confounding Systematics}",
@@ -165,7 +221,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2014ApJ...780..122L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Nagao}, T. and {Kashikawa}, N. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Nagao}, T. and {Kashikawa}, N. and
 	{Shimasaku}, K. and {Hayashi}, M.},
     title = "{``Direct'' Gas-phase Metallicities, Stellar Properties, and Local Environments of Emission-line Galaxies at Redshifts below 0.90}",
   journal = {\apj},
@@ -183,10 +239,10 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2013ApJ...772...48P,
-   author = {{Pirzkal}, N. and {Rothberg}, B. and {Ly}, C. and {Malhotra}, S. and 
-	{Rhoads}, J.~E. and {Grogin}, N.~A. and {Dahlen}, T. and {Noeske}, K.~G. and 
-	{Meurer}, G.~R. and {Walsh}, J.~R. and {Hathi}, N.~P. and {Cohen}, S.~H. and 
-	{Bellini}, A. and {Holwerda}, B.~W. and {Straughn}, A.~N. and 
+   author = {{Pirzkal}, N. and {Rothberg}, B. and {Ly}, C. and {Malhotra}, S. and
+	{Rhoads}, J.~E. and {Grogin}, N.~A. and {Dahlen}, T. and {Noeske}, K.~G. and
+	{Meurer}, G.~R. and {Walsh}, J.~R. and {Hathi}, N.~P. and {Cohen}, S.~H. and
+	{Bellini}, A. and {Holwerda}, B.~W. and {Straughn}, A.~N. and
 	{Mechtley}, M. and {Windhorst}, R.~A.},
     title = "{Emission-line Galaxies from the Hubble Space Telescope Probing Evolution and Reionization Spectroscopically (PEARS) Grism Survey. II. The Complete Sample}",
   journal = {\apj},
@@ -204,7 +260,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2013AJ....145...47M,
-   author = {{Momcheva}, I.~G. and {Lee}, J.~C. and {Ly}, C. and {Salim}, S. and 
+   author = {{Momcheva}, I.~G. and {Lee}, J.~C. and {Ly}, C. and {Salim}, S. and
 	{Dale}, D.~A. and {Ouchi}, M. and {Finn}, R. and {Ono}, Y.},
     title = "{Nebular Attenuation in H{$\alpha$}-selected Star-forming Galaxies at z = 0.8 from the NewH{$\alpha$} Survey}",
   journal = {\aj},
@@ -222,9 +278,9 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...761...85K,
-   author = {{Kashikawa}, N. and {Nagao}, T. and {Toshikawa}, J. and {Ishizaki}, Y. and 
-	{Egami}, E. and {Hayashi}, M. and {Ly}, C. and {Malkan}, M.~A. and 
-	{Matsuda}, Y. and {Shimasaku}, K. and {Iye}, M. and {Ota}, K. and 
+   author = {{Kashikawa}, N. and {Nagao}, T. and {Toshikawa}, J. and {Ishizaki}, Y. and
+	{Egami}, E. and {Hayashi}, M. and {Ly}, C. and {Malkan}, M.~A. and
+	{Matsuda}, Y. and {Shimasaku}, K. and {Iye}, M. and {Ota}, K. and
 	{Shibuya}, T. and {Jiang}, L. and {Taniguchi}, Y. and {Shioya}, Y.
 	},
     title = "{A Ly{$\alpha$} Emitter with an Extremely Large Rest-frame Equivalent Width of \~{}900 {\AA} at z = 6.5: A Candidate Population III-dominated Galaxy?}",
@@ -243,8 +299,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...760L..11U,
-   author = {{Urata}, Y. and {Tsai}, P.~P. and {Huang}, K. and {Morokuma}, T. and 
-	{Yasuda}, N. and {Tanaka}, M. and {Motohara}, K. and {Hayashi}, M. and 
+   author = {{Urata}, Y. and {Tsai}, P.~P. and {Huang}, K. and {Morokuma}, T. and
+	{Yasuda}, N. and {Tanaka}, M. and {Motohara}, K. and {Hayashi}, M. and
 	{Kashikawa}, N. and {Ly}, C. and {Malkan}, M.~A.},
     title = "{Unusual Long and Luminous Optical Transient in the Subaru Deep Field}",
   journal = {\apjl},
@@ -262,7 +318,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...757...63L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Hayashi}, M. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Hayashi}, M. and
 	{Nagao}, T. and {Shimasaku}, K. and {Ota}, K. and {Ross}, N.~R.
 	},
     title = "{The Stellar Population and Star Formation Rates of z {\ap} 1.5-1.6 [O II]-emitting Galaxies Selected from Narrowband Emission-line Surveys}",
@@ -281,8 +337,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012PASP..124..782L,
-   author = {{Lee}, J.~C. and {Ly}, C. and {Spitler}, L. and {Labb{\'e}}, I. and 
-	{Salim}, S. and {Persson}, S.~E. and {Ouchi}, M. and {Dale}, D.~A. and 
+   author = {{Lee}, J.~C. and {Ly}, C. and {Spitler}, L. and {Labb{\'e}}, I. and
+	{Salim}, S. and {Persson}, S.~E. and {Ouchi}, M. and {Dale}, D.~A. and
 	{Monson}, A. and {Murphy}, D.},
     title = "{A Dual-Narrowband Survey for H{$\alpha$} Emitters at Redshift of 2.2: Demonstration of the Technique and Constraints on the H{$\alpha$} Luminosity Function}",
   journal = {\pasp},
@@ -298,7 +354,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...747L..16L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Ota}, K. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Ota}, K. and
 	{Shimasaku}, K. and {Iye}, M. and {Currie}, T.},
     title = "{Dust Attenuation and H{$\alpha$} Star Formation Rates of z \~{} 0.5 Galaxies}",
   journal = {\apjl},
@@ -316,8 +372,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...746..151A,
-   author = {{Abramowski}, A. and {Acero}, F. and {Aharonian}, F. and {Akhperjanian}, A.~G. and 
-	{Anton}, G. and {Balzer}, A. and {Barnacka}, A. and {Barres de Almeida}, U. and 
+   author = {{Abramowski}, A. and {Acero}, F. and {Aharonian}, F. and {Akhperjanian}, A.~G. and
+	{Anton}, G. and {Balzer}, A. and {Barnacka}, A. and {Barres de Almeida}, U. and
 	{Becherini}, Y. and {Becker}, J. and et al.},
     title = "{The 2010 Very High Energy {$\gamma$}-Ray Flare and 10 Years of Multi-wavelength Observations of M 87}",
   journal = {\apj},
@@ -336,8 +392,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012ApJ...745...12N,
-   author = {{Nakajima}, K. and {Ouchi}, M. and {Shimasaku}, K. and {Ono}, Y. and 
-	{Lee}, J.~C. and {Foucaud}, S. and {Ly}, C. and {Dale}, D.~A. and 
+   author = {{Nakajima}, K. and {Ouchi}, M. and {Shimasaku}, K. and {Ono}, Y. and
+	{Lee}, J.~C. and {Foucaud}, S. and {Ly}, C. and {Dale}, D.~A. and
 	{Salim}, S. and {Finn}, R. and {Almaini}, O. and {Okamura}, S.
 	},
     title = "{Average Metallicity and Star Formation Rate of Ly{$\alpha$} Emitters Probed by a Triple Narrowband Survey}",
@@ -356,7 +412,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2011ApJ...735...91L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Hayashi}, M. and {Motohara}, K. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Hayashi}, M. and {Motohara}, K. and
 	{Kashikawa}, N. and {Shimasaku}, K. and {Nagao}, T. and {Grady}, C.
 	},
     title = "{A Census of Star-forming Galaxies at z = 1-3 in the Subaru Deep Field}",
@@ -376,10 +432,10 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2011ApJ...734..119K,
-   author = {{Kashikawa}, N. and {Shimasaku}, K. and {Matsuda}, Y. and {Egami}, E. and 
-	{Jiang}, L. and {Nagao}, T. and {Ouchi}, M. and {Malkan}, M.~A. and 
-	{Hattori}, T. and {Ota}, K. and {Taniguchi}, Y. and {Okamura}, S. and 
-	{Ly}, C. and {Iye}, M. and {Furusawa}, H. and {Shioya}, Y. and 
+   author = {{Kashikawa}, N. and {Shimasaku}, K. and {Matsuda}, Y. and {Egami}, E. and
+	{Jiang}, L. and {Nagao}, T. and {Ouchi}, M. and {Malkan}, M.~A. and
+	{Hattori}, T. and {Ota}, K. and {Taniguchi}, Y. and {Okamura}, S. and
+	{Ly}, C. and {Iye}, M. and {Furusawa}, H. and {Shioya}, Y. and
 	{Shibuya}, T. and {Ishizaki}, Y. and {Toshikawa}, J.},
     title = "{Completing the Census of Ly{$\alpha$} Emitters at the Reionization Epoch}",
   journal = {\apj},
@@ -397,7 +453,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2011ApJ...726..109L,
-   author = {{Ly}, C. and {Lee}, J.~C. and {Dale}, D.~A. and {Momcheva}, I. and 
+   author = {{Ly}, C. and {Lee}, J.~C. and {Dale}, D.~A. and {Momcheva}, I. and
 	{Salim}, S. and {Staudaher}, S. and {Moore}, C.~A. and {Finn}, R.
 	},
     title = "{The H{$\alpha$} Luminosity Function and Star Formation Rate Volume Density at z = 0.8 from the NEWFIRM H{$\alpha$} Survey}",
@@ -417,8 +473,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2010PASJ...62.1167O,
-   author = {{Ota}, K. and {Ly}, C. and {Malkan}, M.~A. and {Motohara}, K. and 
-	{Hayashi}, M. and {Shimasaku}, K. and {Morokuma}, T. and {Iye}, M. and 
+   author = {{Ota}, K. and {Ly}, C. and {Malkan}, M.~A. and {Motohara}, K. and
+	{Hayashi}, M. and {Shimasaku}, K. and {Morokuma}, T. and {Iye}, M. and
 	{Kashikawa}, N. and {Hattori}, T.},
     title = "{Spitzer Space Telescope Constraint on the Stellar Mass of a z = 6.96 Ly{$\alpha$} Emitter}",
   journal = {\pasj},
@@ -435,8 +491,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2010A&A...509A..83D,
-   author = {{Doherty}, M. and {Tanaka}, M. and {De Breuck}, C. and {Ly}, C. and 
-	{Kodama}, T. and {Kurk}, J. and {Seymour}, N. and {Vernet}, J. and 
+   author = {{Doherty}, M. and {Tanaka}, M. and {De Breuck}, C. and {Ly}, C. and
+	{Kodama}, T. and {Kurk}, J. and {Seymour}, N. and {Vernet}, J. and
 	{Stern}, D. and {Venemans}, B. and {Kajisawa}, M. and {Tanaka}, I.
 	},
     title = "{Optical and near-IR spectroscopy of candidate red galaxies in two z \~{} 2.5 proto-clusters}",
@@ -455,8 +511,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009Sci...325..444A,
-   author = {{Acciari}, V.~A. and {Aliu}, E. and {Arlen}, T. and {Bautista}, M. and 
-	{Beilicke}, M. and {Benbow}, W. and {Bradbury}, S.~M. and {Buckley}, J.~H. and 
+   author = {{Acciari}, V.~A. and {Aliu}, E. and {Arlen}, T. and {Bautista}, M. and
+	{Beilicke}, M. and {Benbow}, W. and {Bradbury}, S.~M. and {Buckley}, J.~H. and
 	{Bugaev}, V. and {Butt}, Y. and et al.},
     title = "{Radio Imaging of the Very-High-Energy {$\gamma$}-Ray Emission Region in the Central Engine of a Radio Galaxy}",
   journal = {Science},
@@ -473,8 +529,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009PASJ...61..487H,
-   author = {{Hatsukade}, B. and {Iono}, D. and {Motohara}, K. and {Nakanishi}, K. and 
-	{Hayashi}, M. and {Shimasaku}, K. and {Nagao}, T. and {Tamura}, Y. and 
+   author = {{Hatsukade}, B. and {Iono}, D. and {Motohara}, K. and {Nakanishi}, K. and
+	{Hayashi}, M. and {Shimasaku}, K. and {Nagao}, T. and {Tamura}, Y. and
 	{Malkan}, M.~A. and {Ly}, C. and {Kohno}, K.},
     title = "{A Search for Molecular Gas toward a BzK-Selected Star-Forming Galaxy at z = 2.044}",
   journal = {\pasj},
@@ -491,8 +547,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009ApJ...697.1410L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Treu}, T. and {Woo}, J.-H. and 
-	{Currie}, T. and {Hayashi}, M. and {Kashikawa}, N. and {Motohara}, K. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Treu}, T. and {Woo}, J.-H. and
+	{Currie}, T. and {Hayashi}, M. and {Kashikawa}, N. and {Motohara}, K. and
 	{Shimasaku}, K. and {Yoshida}, M.},
     title = "{Lyman Break Galaxies at z {\ap} 1.8-2.8: GALEX/NUV Imaging of the Subaru Deep Field}",
   journal = {\apj},
@@ -510,8 +566,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2009ApJ...691..140H,
-   author = {{Hayashi}, M. and {Motohara}, K. and {Shimasaku}, K. and {Onodera}, M. and 
-	{Uchimoto}, Y.~K. and {Kashikawa}, N. and {Yoshida}, M. and 
+   author = {{Hayashi}, M. and {Motohara}, K. and {Shimasaku}, K. and {Onodera}, M. and
+	{Uchimoto}, Y.~K. and {Kashikawa}, N. and {Yoshida}, M. and
 	{Okamura}, S. and {Ly}, C. and {Malkan}, M.~A.},
     title = "{Star Formation Rates and Metallicities of K-Selected Star-Forming Galaxies at z \~{} 2}",
   journal = {\apj},
@@ -528,8 +584,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2008ApJ...680..100N,
-   author = {{Nagao}, T. and {Sasaki}, S.~S. and {Maiolino}, R. and {Grady}, C. and 
-	{Kashikawa}, N. and {Ly}, C. and {Malkan}, M.~A. and {Motohara}, K. and 
+   author = {{Nagao}, T. and {Sasaki}, S.~S. and {Maiolino}, R. and {Grady}, C. and
+	{Kashikawa}, N. and {Ly}, C. and {Malkan}, M.~A. and {Motohara}, K. and
 	{Murayama}, T. and {Schaerer}, D. and {Shioya}, Y. and {Taniguchi}, Y.
 	},
     title = "{A Photometric Survey for Ly{$\alpha$}-He II Dual Emitters: Searching for Population III Stars in High-Redshift Galaxies}",
@@ -547,9 +603,9 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2007A&A...468..877N,
-   author = {{Nagao}, T. and {Murayama}, T. and {Maiolino}, R. and {Marconi}, A. and 
-	{Kashikawa}, N. and {Ajiki}, M. and {Hattori}, T. and {Ly}, C. and 
-	{Malkan}, M.~A. and {Motohara}, K. and {Ohta}, K. and {Sasaki}, S.~S. and 
+   author = {{Nagao}, T. and {Murayama}, T. and {Maiolino}, R. and {Marconi}, A. and
+	{Kashikawa}, N. and {Ajiki}, M. and {Hattori}, T. and {Ly}, C. and
+	{Malkan}, M.~A. and {Motohara}, K. and {Ohta}, K. and {Sasaki}, S.~S. and
 	{Shioya}, Y. and {Taniguchi}, Y.},
     title = "{High-redshift Ly{$\alpha$} emitters with a large equivalent width. Properties of i'-dropout galaxies with an NB921-band depression in the Subaru deep field}",
   journal = {\aap},
@@ -580,8 +636,8 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2007ApJ...657..738L,
-   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Shimasaku}, K. and 
-	{Doi}, M. and {Nagao}, T. and {Iye}, M. and {Kodama}, T. and 
+   author = {{Ly}, C. and {Malkan}, M.~A. and {Kashikawa}, N. and {Shimasaku}, K. and
+	{Doi}, M. and {Nagao}, T. and {Iye}, M. and {Kodama}, T. and
 	{Morokuma}, T. and {Motohara}, K.},
     title = "{The Luminosity Function and Star Formation Rate between Redshifts of 0.07 and 1.47 for Narrowband Emitters in the Subaru Deep Field}",
   journal = {\apj},
@@ -597,10 +653,10 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2006ApJ...648....7K,
-   author = {{Kashikawa}, N. and {Shimasaku}, K. and {Malkan}, M.~A. and 
-	{Doi}, M. and {Matsuda}, Y. and {Ouchi}, M. and {Taniguchi}, Y. and 
-	{Ly}, C. and {Nagao}, T. and {Iye}, M. and {Motohara}, K. and 
-	{Murayama}, T. and {Murozono}, K. and {Nariai}, K. and {Ohta}, K. and 
+   author = {{Kashikawa}, N. and {Shimasaku}, K. and {Malkan}, M.~A. and
+	{Doi}, M. and {Matsuda}, Y. and {Ouchi}, M. and {Taniguchi}, Y. and
+	{Ly}, C. and {Nagao}, T. and {Iye}, M. and {Motohara}, K. and
+	{Murayama}, T. and {Murozono}, K. and {Nariai}, K. and {Ohta}, K. and
 	{Okamura}, S. and {Sasaki}, T. and {Shioya}, Y. and {Umemura}, M.
 	},
     title = "{The End of the Reionization Epoch Probed by Ly{$\alpha$} Emitters at z = 6.5 in the Subaru Deep Field}",
@@ -617,10 +673,10 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2006PASJ...58..313S,
-   author = {{Shimasaku}, K. and {Kashikawa}, N. and {Doi}, M. and {Ly}, C. and 
-	{Malkan}, M.~A. and {Matsuda}, Y. and {Ouchi}, M. and {Hayashino}, T. and 
-	{Iye}, M. and {Motohara}, K. and {Murayama}, T. and {Nagao}, T. and 
-	{Ohta}, K. and {Okamura}, S. and {Sasaki}, T. and {Shioya}, Y. and 
+   author = {{Shimasaku}, K. and {Kashikawa}, N. and {Doi}, M. and {Ly}, C. and
+	{Malkan}, M.~A. and {Matsuda}, Y. and {Ouchi}, M. and {Hayashino}, T. and
+	{Iye}, M. and {Motohara}, K. and {Murayama}, T. and {Nagao}, T. and
+	{Ohta}, K. and {Okamura}, S. and {Sasaki}, T. and {Shioya}, Y. and
 	{Taniguchi}, Y.},
     title = "{Ly{$\alpha$} Emitters at z = 5.7 in the Subaru Deep Field}",
   journal = {\pasj},
@@ -666,7 +722,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2002AJ....124.1943B,
-   author = {{Brotherton}, M.~S. and {Ly}, C. and {Wills}, B.~J. and {Laurent-Muehleisen}, S.~A. and 
+   author = {{Brotherton}, M.~S. and {Ly}, C. and {Wills}, B.~J. and {Laurent-Muehleisen}, S.~A. and
 	{van Breugel}, W. and {Antonucci}, R.~R.~J.},
     title = "{Multiband VLA Observations of the Faint Radio Core of 3CR 68.1}",
   journal = {\aj},
