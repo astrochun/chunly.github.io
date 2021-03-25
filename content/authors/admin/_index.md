@@ -82,7 +82,7 @@ user_groups:
 ---
 
 Chun Ly is the Research Data Systems Integration Specialist for
-[University Libraries](https://new.library.arizona.ed) and an Affiliate
+[University Libraries](https://new.library.arizona.edu) and an Affiliate
 Assistant Astronomer at [Steward Observatory](https://www.as.arizona.edu)
 at the University of Arizona (UofA). In his current Librarian role, he
 supports the [UofA research data repository service (ReDATA)](https://arizona.figshare.com)
