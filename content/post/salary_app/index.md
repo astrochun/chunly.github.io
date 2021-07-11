@@ -207,6 +207,20 @@ content in the main page. Here's a screenshot for the Salary Summary page
     title="One of the data views from `sapp4ua`." >}}
 
 
+## What's next
+In 2020, UArizona completed the
+[University Career Architecture Project (UCAP)](https://hr.arizona.edu/content/university-career-architecture-project-ucap),
+which map every employee to specific career streams. I recently submitted
+a public request for FY2020-21 data that includes UCAP and other
+demographics (e.g. sex, race, ethnicity). In fact,
+[UCAP was my original motivation for this app](https://twitter.com/astrochunly/status/1392310191190732802).
+With a proper mapping of career streams, any UArizona member could
+easily compare their salary against those across the campus with the
+same job responsibilities.
+
+Once I have these data, I'll then add additional views to explore
+the UCAP classification and other demographics.
+
 If you found this __open-source__ software useful, consider sponsoring me
 through GitHub.
 <iframe src="https://github.com/sponsors/astrochun/button"
