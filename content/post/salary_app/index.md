@@ -148,8 +148,7 @@ This results in something that looks like this:
 
 As discussed earlier, interactions with the data is done with different views.
 Currently, I have five of them:
-1. Trends: General facts and numbers (e.g. number of employees, salary budget,
-   etc.), for each fiscal year
+1. Trends: General facts and numbers (e.g. number of employees, salary budget), for each fiscal year
 2. Salary Summary: Statistics and percentile salary data, includes salary histogram
 3. Highest Earners: Extract data above a minimum salary
 4. College/Division Data: Similar to Salary Summary but extracted for each college(s)/division(s)
