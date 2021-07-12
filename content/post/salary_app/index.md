@@ -229,8 +229,11 @@ same job responsibilities.
 Once I have these data, I'll then add additional views to explore
 the UCAP classification and other demographics.
 
+## Support it! 
 If you found this __open-source__ software useful, consider sponsoring me
-through GitHub.
+through GitHub with a small donation. Your name will be included as a sponsor
+on the app's main page
+
 <iframe src="https://github.com/sponsors/astrochun/button"
 title="Sponsor astrochun" height="35" width="116" style="border: 0;">
 </iframe>
