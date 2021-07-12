@@ -207,7 +207,16 @@ content in the main page. Here's a screenshot for the Salary Summary page
     title="One of the data views from `sapp4ua`." >}}
 
 
-## What's next
+## What's next?
+
+#### Next feature!
+Recently [I asked users what the next key feature](https://twitter.com/astrochunly/status/1407485898485239809)
+they would like to see. With 40% of the vote, users felt that having a search
+tool to look at individual salary would be key.
+
+{{< tweet 1407485898485239809 >}}
+
+#### More data views!
 In 2020, UArizona completed the
 [University Career Architecture Project (UCAP)](https://hr.arizona.edu/content/university-career-architecture-project-ucap),
 which map every employee to specific career streams. I recently submitted
