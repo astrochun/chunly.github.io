@@ -10,23 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Data Systems Integration Specialist
-
-
-      Affiliate Assistant Astronomer
+role: Research Data Developer
  
 # Organizations/Affiliations
 organizations:
-- name: University of Arizona
-  url: "https://www.arizona.edu"
+- name: Princeton University Plasma Physics Laboratory
+  url: "https://pppl.gov"
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Open source software
+- Automation with software and infrastructure
 - Galaxy formation and evolution
 - Astronomical data processing
 - Open and reproducible science
-- Open source software
 - Enabling digital literacy with student mentoring, [Software Carpentry](https://carpentries.org/),
   and [Research Bazaar Arizona](https://researchbazaar.arizona.edu/)
 
@@ -81,14 +79,22 @@ user_groups:
 - Visitors
 ---
 
-Chun Ly is the Research Data Systems Integration Specialist for
-[University Libraries](https://new.library.arizona.edu) and an Affiliate
-Assistant Astronomer at [Steward Observatory](https://www.as.arizona.edu)
-at the University of Arizona (UofA). In his current Librarian role, he
-supports the [UofA research data repository service (ReDATA)](https://arizona.figshare.com)
-that enables open and reproducible science at the UofA. He enjoys
-developing _open-source software_ with Python and spends his time thinking
-about DevOps and how to implement it into reproducible research.
+Chun Ly is the Research Data Developer at
+the [Princeton University Plasma Physics Laboratory](https://pppl.gov)
+and an Affiliate Assistant Astronomer at
+[Steward Observatory ](https://www.as.arizona.edu) at the University of
+Arizona (UofA). He is responsible for developing an
+[ORCiD](https://orcid.org) integration for the management of ORCiD
+profiles  for PPPL researchers and for automating the dissemination of
+open-access publications at a top-tier Department of Energy laboratory.
+
+In his previous role at the UofA, he was the Research Data Systems
+Integration Specialist where he built and maintained the
+[UofA research data repository service (ReDATA)](https://arizona.figshare.com)
+that enables open and reproducible science at the UofA.
+
+He enjoys developing _open-source software_ with Python and spends his time
+thinking about "DevOps" and how to implement it in reproducible research.
 
 Chun earned his Bachelor's degrees in Astronomy and Physics from the UofA,
 and received his Master's and Ph.D. from the

@@ -18,12 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Data Developer"
+  company = "Princeton University Plasma Physics Laboratory"
+  company_url = "https://pppl.gov"
+  location = "Tucson, Arizona; Princeton, New Jersey"
+  date_start = "2021-08-02"
+  date_end = ""
+  description = """
+  I am leading the technical deployment of the UofA institutional data
+  repository called [ReDATA](https://arizona.figshare.com).
+  
+  My roles include:
+
+  * Building and developing an ORCiD integration for the management
+    of PPPL researchers' ORCiD profiles using the ORCiD API
+  * Developing solutions to automate the dissemination of open-access
+    research to the Department of Energy's public access services
+  * Develop tools to track PPPL researchers' scholarly impact
+    through metadata harvesting and data visualization
+  """
+
+[[experience]]
   title = "Research Data Systems Integration Specialist"
   company = "University of Arizona Libraries"
   company_url = "https://new.library.arizona.edu"
   location = "Tucson, Arizona"
   date_start = "2019-09-23"
-  date_end = ""
+  date_end = "2021-07-31"
   description = """
   I am leading the technical deployment of the UofA institutional data
   repository called [ReDATA](https://arizona.figshare.com).
