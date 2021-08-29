@@ -1,7 +1,7 @@
 ---
 title: Building a streamlit app to serve UArizona salary data and deploying it on Heroku
 
-date: 2021-07-11
+date: 2021-08-29
 
 tags:
 - Python
@@ -47,8 +47,9 @@ The [Daily Wildcat](https://www.wildcat.arizona.edu/) of the
 the salary of UArizona employees for nearly a decade through public requests.
 While this allowed for the easy viewing of information for an individual,
 the analysis from the Daily Wildcat was rather limited. As such, I wanted to
-build a data visualization app that allow anyone to explore the data for
-100% transparency.
+build a data visualization app that would allow anyone to explore the data for
+100% transparency. I call it `sapp4ua`, which is short for the
+salary app for UArizona. It's available at https://sapp4ua.herokuapp.com
 
 ## How
 The salary data were available as machine-readable CSV files, so it made sense
@@ -63,7 +64,7 @@ From there, I put together the software to load the data and provide different
 "data views" that were different interactions with the data. The code is
 available on [GitHub](https://www.github.com/astrochun/uarizona-salary-app)
 under an MIT License. There are many resources and blogs about building a
-`streamlit`, so I won't go in details here, but I will illustrate some
+`streamlit` app, so I won't go in details here, but I will illustrate some
 aspects:
 
 Loading in data can be simple. 
@@ -108,9 +109,9 @@ def main():
     data_dict = load_data()
 ```
 
-The above code loads every previous year's of available data into a `dict`
+The above code loads each previous year of available data into a `dict`
 of `pandas` DataFrames. The `st.cache` decorator ensures that the data is
-loaded into memory once. This ensures a shorter response time when it's
+loaded into memory only once. This ensures a shorter response time when it's
 deployed and users are accessing the app frequently. Here, I made the data
 publicly available in Google Drive. I could have gone with an SQL server,
 but given the  small record sizes (~10,000 records), and the reliability
@@ -118,7 +119,7 @@ of Google Drive, this worked well for an MVP.
 
 To select from the data, I utilized `streamlit` sidebar widgets to add the
 layer for selection. For example, the following selects the data for one
-fiscal year:
+year:
 
 ```python
 def select_fiscal_year() -> str:
@@ -148,14 +149,19 @@ This results in something that looks like this:
 
 As discussed earlier, interactions with the data is done with different views.
 Currently, I have six of them:
-1. Trends: General facts and numbers (e.g. number of employees, salary budget), for each fiscal year
-2. Salary Summary: Statistics and percentile salary data, includes salary histogram
-3. Highest Earners: Extract data above a minimum salary
-4. College/Division Data: Similar to Salary Summary but extracted for each college(s)/division(s)
-5. Department Data: Similar to Salary Summary but extracted for each department(s)
-6. Individual Search: Search for all data for individuals or by looking at each department
+1. Trends: General facts and numbers (e.g. number of employees, salary budget),
+   for each fiscal year.
+2. Salary Summary: Statistics and percentile salary data, includes salary
+   histogram.
+3. Highest Earners: Extract data above a minimum salary.
+4. College/Division Data: Similar to Salary Summary but extracted for each
+   college(s)/division(s).
+5. Department Data: Similar to Salary Summary but extracted for each
+   department(s).
+6. Individual Search: Search for all data for individuals or by looking at
+   each department. You can read more [here](#whats-important-for-end-users).
 
-This can easily be done on the sidebar and then the main page is loaded
+This can easily be done on the sidebar and then the main page is loaded:
 
 ```python
 DATA_VIEWS = [
@@ -203,18 +209,134 @@ def main():
         views.individual_search_page(data_dict, unique_df)
 ```
 
-Here `views` is a Python module and each of its function displays
-different  content in the main page. Here's a screenshot for the
-Salary Summary page
+Here `views` is a Python module and each function displays
+different content in the main page. Here's a screenshot for the
+Salary Summary page:
 
 {{< figure src="screenshot2.png" lightbox="true" width="100%"
     title="One of the data views from `sapp4ua`." >}}
 
 
-## Newest feature!
-Recently [I asked users what the next key feature](https://twitter.com/astrochunly/status/1407485898485239809)
-they would like to see. With 40% of the vote, users felt that having a search
-tool to look at individual salary would be key.
+## Deploying it on Heroku
+
+With a functional app, it's easy to have it locally deployed with the
+following command:
+```
+streamlit run salary_app:main
+```
+
+To make it available on a production instance, I looked into hosting services
+(called Platform as a Service), and it turned out that
+[Heroku](https://heroku.com/about) has a free tier for serverless deployment.
+It seems as though it's one of the popular options among `streamlit` users to
+deploy their apps. Note that `streamlit` runs a web server so static
+site hosting services (e.g., GitHub Pages) will not work. To get started,
+first [sign-up](https://signup.heroku.com/) for a Heroku account. To create
+your first Heroku project, select the "Create New App" option from the New
+button. Here the project name needs to be unique across all of Heroku
+because it will point to `https://<project-name>.herokuapp.com`.
+
+Now you have a project that can be triggered to deploy after any codebase
+changes. What I learned is that Heroku is developer friendly.
+It has at least three ways to deploy it:
+ 1. Manually using `git`
+ 2. Using GitHub integration
+ 3. Using a GitHub Action
+
+### Command-line deployment
+For the first method, this follows a `git` workflow for deployment. In
+short you create a `git` remote locally, login with the `heroku` cli, and
+push changes to the Heroku `git` repo. An update to the remote triggers
+a deployment and within a minute or two your app is publicly available!
+There's more information available here in the
+[Heroku docs](https://devcenter.heroku.com/articles/git).
+
+My steps were a bit different as I had already created a Heroku project
+through the UI and already had a local `.git` repo. I simply got the Heroku
+`git` URL through the Settings menu for the project; it should look like:
+```
+https://git.heroku.com/<project-name>.git
+```
+
+Now all you need to do is add it as a `git` remote in your local `.git` repo:
+```
+git remote add heroku https://git.heroku.com/<project-name>.git
+```
+
+You will need to install the
+[Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) (`heroku`) and
+login: `heroku login`. After that is done, you deploy with a push:
+```
+git push heroku main
+```
+
+### Continuous deployment
+
+The above step is great if you're learning to deploy your app for the first
+time. However, this step is manual and it's tedious as you make improvements
+to your app.
+
+Heroku has a couple of options for continuous deployment (CD). The first of
+which is GitHub integration. Through the Heroku UI, the "Deploy" menu for
+the project has configuration settings for deployment.
+
+{{< figure src="screenshot3.png" lightbox="true" width="100%"
+    title="GitHub integration in Heroku" >}}
+
+After you connect your Heroku app with your GitHub account, you can easily
+enable CD with the "Enable Automatic Deploys" button.
+
+While this is great, I realized that this will re-deploy with any changes
+to the GitHub repo. That is, even a simple change to the README.md or the
+CHANGELOG would trigger a new deployment. Thus, a bit of control over
+deployment is still needed.
+
+While developing this app, I followed a GitHub workflow where I created a new
+branch which is then merged into the `main` branch through a pull request
+(PR). To distinguish changes to the code from other changes that does not
+impact end users, I performed a `git tag` which is related to a version
+bump of the codebase. The advantage here is that I can easily trigger
+deployment based on a new tag using GitHub Actions:
+
+```
+name: Heroku Deployment
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  heroku-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Heroku deployment
+        uses: akhileshns/heroku-deploy@v3.12.12
+        with:
+          heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
+          heroku_app_name: "<project-name>"
+          heroku_email: "myemail@dot.com"
+```
+
+You will need to create a Heroku API token (it's in the "Account Settings"
+option of your Heroku account) and add it as a secret in the GitHub repo.
+With the above workflow, I can easily trigger a deployment using
+```
+git push --tags
+```
+
+{{< figure src="screenshot4.png" lightbox="true" width="100%"
+    title="GitHub Actions with a Heroku deployment" >}}
+
+**And that's how I built a `streamlit` app that I easily deployed on Heroku
+for free!**
+
+## What's important for end users?
+Recently I asked users for the next feature they would like to see.
+With 40% of the vote, users felt that having a search tool to look at
+individuals' salary data would be great.
 
 {{< tweet 1407485898485239809 >}}
 
