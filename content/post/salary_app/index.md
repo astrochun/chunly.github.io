@@ -211,7 +211,7 @@ Salary Summary page
     title="One of the data views from `sapp4ua`." >}}
 
 
-#### Newest feature!
+## Newest feature!
 Recently [I asked users what the next key feature](https://twitter.com/astrochunly/status/1407485898485239809)
 they would like to see. With 40% of the vote, users felt that having a search
 tool to look at individual salary would be key.
