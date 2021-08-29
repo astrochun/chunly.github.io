@@ -147,19 +147,20 @@ This results in something that looks like this:
     title="Sidebar tool selection for fiscal year" >}}
 
 As discussed earlier, interactions with the data is done with different views.
-Currently, I have five of them:
+Currently, I have six of them:
 1. Trends: General facts and numbers (e.g. number of employees, salary budget), for each fiscal year
 2. Salary Summary: Statistics and percentile salary data, includes salary histogram
 3. Highest Earners: Extract data above a minimum salary
 4. College/Division Data: Similar to Salary Summary but extracted for each college(s)/division(s)
 5. Department Data: Similar to Salary Summary but extracted for each department(s)
+6. Individual Search: Search for all data for individuals or by looking at each department
 
-This can easily be done on the side and then the main page is loaded
+This can easily be done on the sidebar and then the main page is loaded
 
 ```python
 DATA_VIEWS = [
-    'About', 'Trends', 'Salary Summary', 'Highest Earners',
-    'College/Division Data', 'Department Data'
+    'About', 'Individual Search (NEW)', 'Trends', 'Salary Summary',
+    'Highest Earners', 'College/Division Data', 'Department Data',
 ]
 
 def select_data_view() -> str:
@@ -197,10 +198,14 @@ def main():
         views.subset_select_data_page(df, 'Department', 'department',
                                       pay_norm)
 
+    # Load individual search
+    if view_select == 'Individual Search':
+        views.individual_search_page(data_dict, unique_df)
 ```
 
-Here `views` is a module and each of its function displays different
-content in the main page. Here's a screenshot for the Salary Summary page
+Here `views` is a Python module and each of its function displays
+different  content in the main page. Here's a screenshot for the
+Salary Summary page
 
 {{< figure src="screenshot2.png" lightbox="true" width="100%"
     title="One of the data views from `sapp4ua`." >}}
