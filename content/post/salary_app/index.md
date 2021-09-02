@@ -222,7 +222,7 @@ Salary Summary page:
 With a functional app, it's easy to have it locally deployed with the
 following command:
 ```
-streamlit run salary_app:main
+streamlit run salary_app/main.py
 ```
 
 To make it available on a production instance, I looked into hosting services
